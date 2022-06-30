@@ -78,7 +78,7 @@
 </table>
 
 ## 相关项目地址
-[用户前端项目地址](https://gitee.com/MrBaoLu/psy_user)
+[用户前端项目地址](https://github.com/wanManage/psy_user)
 
 [管理前端项目地址]()
 
